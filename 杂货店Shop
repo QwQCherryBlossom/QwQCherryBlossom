@@ -1,0 +1,3841 @@
+[
+  {
+    "shopId": 1004,
+    "items": [
+	  {
+        "goodsId": 1004201, //ID 摩拉
+        "goodsItem": {
+          "id": 202,
+          "count": 1000000
+        },
+        "hcoin": 0,//原石
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [	  
+		  {
+            "id": 101303,
+            "count": 1
+          }	
+        ]
+      },
+	  {
+        "goodsId": 1004202, //ID 矿
+        "goodsItem": {
+          "id": 104013,
+          "count": 100
+        },
+        "hcoin": 0,//原石
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 101303,
+            "count": 1
+          }	
+        ]
+      },	  
+	  {
+        "goodsId": 1004203, //ID 经验
+        "goodsItem": {
+          "id": 102,
+          "count": 100
+        },
+        "hcoin": 0,//原石
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 101303,
+            "count": 1
+          }	
+        ]
+      },
+	  {
+        "goodsId": 1004204, //ID 星辉
+        "goodsItem": {
+          "id": 221,
+          "count": 10
+        },
+        "hcoin": 0,//原石
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 101303,
+            "count": 1
+          }	
+        ]
+      },	  
+	  {
+        "goodsId": 1004001,
+        "goodsItem": {
+          "id": 104104,//ID 璀璨原钻
+          "count": 10 //数量
+        },
+        "scoin": 0,//摩拉
+        "hcoin": 128000,//原石
+        "costItemList": [
+          {
+            "id": 0,
+            "count": 0
+          }
+        ],//购买所需要305: 风之印
+        
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 1004002,
+        "goodsItem": {
+          "id": 306,//ID 冰之印
+          "count": 1 //数量
+        },
+        "scoin": 0,//摩拉
+        "hcoin": 0,//原石
+        "costItemList": [
+          {
+            "id": 203,
+            "count": 160
+          }
+        ],//购买所需要305: 风之印
+        
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },	  
+	  {
+        "goodsId": 1004003,
+        "goodsItem": {
+          "id": 306,//ID 冰之印
+          "count": 2 //数量
+        },
+        "scoin": 0,//摩拉
+        "hcoin": 0,//原石
+        "costItemList": [
+          {
+            "id": 100085,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 1004004,
+        "goodsItem": {
+          "id": 105003,//ID 祝圣精华
+          "count": 1 //数量
+        },
+        "scoin": 0,//摩拉
+        "hcoin": 10000,//原石
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 100
+          }
+        ],//购买所需要305: 风之印
+        
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },	  
+      {
+        "goodsId": 10048004,
+        "goodsItem": {
+          "id": 108006,//ID 煎蛋
+          "count": 1 //数量
+        },
+        "scoin": 100,//摩拉
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+		"costItemList": [],		
+        "buyLimit": 50000,//限量
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048005,
+        "goodsItem": {
+          "id": 108033,//ID 花酿鸡
+          "count": 1
+        },
+        "scoin": 0,//摩拉
+        "hcoin": 100,//原石
+        "mcoin": 0,//结晶
+		"costItemList": [],	
+        "buyLimit": 50000,//限量
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10048033,
+        "goodsItem": {
+          "id": 340004,//时装
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 2480,//结晶
+        "costItemList": [
+          {
+            "id": 0,
+            "count": 0
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10048034,
+        "goodsItem": {
+          "id": 340005,//时装2
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 1680,//结晶
+        "costItemList": [
+          {
+            "id": 0,
+            "count":0 
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10048039,
+        "goodsItem": {
+          "id": 104319,//智识之冕
+          "count": 1
+        },
+        "hcoin": 99999,//原石
+        "mcoin": 9999,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 9999
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 58,
+        "maxLevel": 99
+      }
+    ]
+  },
+ 
+ 
+//角色商店
+  {
+    "shopId": 1013,
+    "items": [
+	  {
+        "goodsId": 10048005,
+        "goodsItem": {
+          "id": 1022,//ID 人物5星
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104123,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  
+	  {
+        "goodsId": 10048006,
+        "goodsItem": {
+          "id": 1026,//ID 人物5星
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104123,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },   
+	  {
+        "goodsId": 10048007,
+        "goodsItem": {
+          "id": 1029,//ID 人物5星
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104123,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },    
+	  {
+        "goodsId": 10048008,
+        "goodsItem": {
+          "id": 1030,//ID 人物5星
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104123,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  		
+	  {
+        "goodsId": 10048009,
+        "goodsItem": {
+          "id": 1033,//ID 人物5星
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104123,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  	
+	  {
+        "goodsId": 10048010,
+        "goodsItem": {
+          "id": 1037,//ID 人物5星
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104123,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  	
+	  {
+        "goodsId": 10048011,
+        "goodsItem": {
+          "id": 1038,//ID 人物5星
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104123,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      }, 
+	  {
+        "goodsId": 10048012,
+        "goodsItem": {
+          "id": 1046,//ID 人物5星
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104123,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  
+	  {
+        "goodsId": 1,
+        "goodsItem": {
+          "id": 1002,//ID 人物5星 凌华
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104123,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      }, 
+	  {
+        "goodsId": 10048013,
+        "goodsItem": {
+          "id": 1047,//ID 人物5星
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104123,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10048014,
+        "goodsItem": {
+          "id": 1049,//ID 人物5星
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104123,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      }, 
+	  {
+        "goodsId": 10048015,
+        "goodsItem": {
+          "id": 1051,//ID 人物5星
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104123,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10048016,
+        "goodsItem": {
+          "id": 1052,//ID 人物5星
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104123,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  
+	  {
+        "goodsId": 10048017,
+        "goodsItem": {
+          "id": 1054,//ID 人物5星
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104123,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  
+	  {
+        "goodsId": 10048018,
+        "goodsItem": {
+          "id": 1057,//ID 人物5星
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104123,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10048019,
+        "goodsItem": {
+          "id": 1058,//ID 人物5星
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104123,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      }, 
+	  {
+        "goodsId": 10048020,
+        "goodsItem": {
+          "id": 1063,//ID 人物5星
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104123,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      }, 
+	  {
+        "goodsId": 10048021,
+        "goodsItem": {
+          "id": 1066,//ID 人物5星
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104123,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  
+	  {
+        "goodsId": 10048022,
+        "goodsItem": {
+          "id": 1060,//ID 人物5星
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104123,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },   
+	  {
+        "goodsId": 10048023,
+        "goodsItem": {
+          "id": 1071,//ID 人物5星
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104123,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },   
+	  {
+        "goodsId": 10048024,
+        "goodsItem": {
+          "id": 1070,//ID 人物5星
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104123,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  
+	  {
+        "goodsId": 10048025,
+        "goodsItem": {
+          "id": 1102,//ID 人物5星的命座
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104124,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  
+	  {
+        "goodsId": 10048026,
+        "goodsItem": {
+          "id": 1122,//ID 人物5星的命座
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104124,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  
+	  {
+        "goodsId": 10049000,
+        "goodsItem": {
+          "id": 1126,//ID 人物5星的命座
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104124,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  
+	  {
+        "goodsId": 10048027,
+        "goodsItem": {
+          "id": 1126,//ID 人物5星的命座
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104124,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  
+	  {
+        "goodsId": 10048027,
+        "goodsItem": {
+          "id": 1129,//ID 人物5星的命座
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104124,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  
+	  {
+        "goodsId": 10048028,
+        "goodsItem": {
+          "id": 1130,//ID 人物5星的命座
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104124,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  
+	  {
+        "goodsId": 10048029,
+        "goodsItem": {
+          "id": 1133,//ID 人物5星的命座
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104124,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  
+	  {
+        "goodsId": 10048030,
+        "goodsItem": {
+          "id": 1137,//ID 人物5星的命座
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104124,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  
+	  {
+        "goodsId": 10048031,
+        "goodsItem": {
+          "id": 1138,//ID 人物5星的命座
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104124,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  
+	  {
+        "goodsId": 10048032,
+        "goodsItem": {
+          "id": 1146,//ID 人物5星的命座
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104124,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  
+	  {
+        "goodsId": 10048033,
+        "goodsItem": {
+          "id": 1147,//ID 人物5星的命座
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104124,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  
+	  {
+        "goodsId": 10048034,
+        "goodsItem": {
+          "id": 1149,//ID 人物5星的命座
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104124,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  
+	  {
+        "goodsId": 10048035,
+        "goodsItem": {
+          "id": 1151,//ID 人物5星的命座
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104124,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  
+	  {
+        "goodsId": 10048036,
+        "goodsItem": {
+          "id": 1152,//ID 人物5星的命座
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104124,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  
+	  {
+        "goodsId": 10048037,
+        "goodsItem": {
+          "id": 1154,//ID 人物5星的命座
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104124,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  
+	  {
+        "goodsId": 10048038,
+        "goodsItem": {
+          "id": 1157,//ID 人物5星的命座
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104124,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  
+	  {
+        "goodsId": 10048039,
+        "goodsItem": {
+          "id": 1158,//ID 人物5星的命座
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104124,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  
+	  {
+        "goodsId": 10048040,
+        "goodsItem": {
+          "id": 1163,//ID 人物5星的命座
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104124,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  
+	  {
+        "goodsId": 10048041,
+        "goodsItem": {
+          "id": 1166,//ID 人物5星的命座
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104124,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  
+	  {
+        "goodsId": 10050000,
+        "goodsItem": {
+          "id": 12503,//ID 武器
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104124,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  
+	  {
+        "goodsId": 10050001,
+        "goodsItem": {
+          "id": 15511,//ID 武器
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104124,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  
+	  {
+        "goodsId": 10050002,
+        "goodsItem": {
+          "id": 11511,//ID 武器
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104124,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  
+	  {
+        "goodsId": 10050003,
+        "goodsItem": {
+          "id": 13511,//ID 武器
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104124,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  
+	  {
+        "goodsId": 10050004,
+        "goodsItem": {
+          "id": 15508,//ID 武器
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104124,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  
+	  {
+        "goodsId": 10048042,
+        "goodsItem": {
+          "id": 1160,//ID 人物5星的命座
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104124,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },  
+	  {
+        "goodsId": 10048043,
+        "goodsItem": {
+          "id": 1170,//ID 人物5星的命座
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104124,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      }, 	  
+	  {
+        "goodsId": 10048044,
+        "goodsItem": {
+          "id": 1171,//ID 人物5星的命座
+          "count": 1
+        },
+        "hcoin": 0,//原石
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 104124,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      }	  
+    ]
+  },  	  
+ 
+
+
+ 
+ //周本保底商店
+
+  {
+    "shopId": 1014,
+    "items": [
+      {
+        "goodsId": 10048051,
+        "goodsItem": {
+          "id": 113034,	//雷神
+          "count": 1
+        },
+        "scoin": 0,//摩拉
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 304,
+            "count": 90
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048052,
+        "goodsItem": {
+          "id": 113033,	//雷神
+          "count": 1
+        },
+        "scoin": 0,//摩拉
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 304,
+            "count": 90
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048053,
+        "goodsItem": {
+          "id": 113032,	//雷神
+          "count": 1
+        },
+        "scoin": 0,//摩拉
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 304,
+            "count": 90
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048055,
+        "goodsItem": {
+          "id": 113017,	//若陀龙王
+          "count": 1
+        },
+        "scoin": 0,//摩拉
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 302,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },	
+      {
+        "goodsId": 10048056,
+        "goodsItem": {
+          "id": 113018,	//若陀龙王
+          "count": 1
+        },
+        "scoin": 0,//摩拉
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 302,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048057,
+        "goodsItem": {
+          "id": 113019,	//若陀龙王
+          "count": 1
+        },
+        "scoin": 0,//摩拉
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 302,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048058,
+        "goodsItem": {
+          "id": 113026,	//女士
+          "count": 1
+        },
+        "scoin": 0,//摩拉
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 301,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },	
+      {
+        "goodsId": 10048059,
+        "goodsItem": {
+          "id": 113025,	//女士
+          "count": 1
+        },
+        "scoin": 0,//摩拉
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 301,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048060,
+        "goodsItem": {
+          "id": 113027,	//女士
+          "count": 1
+        },
+        "scoin": 0,//摩拉
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 301,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048061,
+        "goodsItem": {
+          "id": 113013,	//公子
+          "count": 1
+        },
+        "scoin": 0,//摩拉
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 303,
+            "count": 60
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048062,
+        "goodsItem": {
+          "id": 113014,	//公子
+          "count": 1
+        },
+        "scoin": 0,//摩拉
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 303,
+            "count": 60
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10049062,
+        "goodsItem": {
+          "id": 113015,	//公子
+          "count": 1
+        },
+        "scoin": 0,//摩拉
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 303,
+            "count": 60
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048063,
+        "goodsItem": {
+          "id": 113006,	//北风狼
+          "count": 1
+        },
+        "scoin": 0,//摩拉
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 204,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },	
+      {
+        "goodsId": 10048065,
+        "goodsItem": {
+          "id": 113007,	//北风狼
+          "count": 1
+        },
+        "scoin": 0,//摩拉
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 204,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048066,
+        "goodsItem": {
+          "id": 113008,	//北风狼
+          "count": 1
+        },
+        "scoin": 0,//摩拉
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 204,
+            "count": 10
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048067,
+        "goodsItem": {
+          "id": 113003,	//龙蜥
+          "count": 1
+        },
+        "scoin": 0,//摩拉
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 307,
+            "count": 90
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },	
+      {
+        "goodsId": 10048068,
+        "goodsItem": {
+          "id": 113004,	//龙蜥
+          "count": 1
+        },
+        "scoin": 0,//摩拉
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 307,
+            "count": 90
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048069,
+        "goodsItem": {
+          "id": 113005,	//龙蜥
+          "count": 1
+        },
+        "scoin": 0,//摩拉
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 307,
+            "count": 90
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      }	  
+    ]
+  },	  
+ 
+ 
+ //食物商店
+   {
+    "shopId": 1003,
+    "items": [
+      {
+        "goodsId": 10048051,
+        "goodsItem": {
+          "id": 111013,	//精油
+          "count": 1
+        },
+        "scoin": 0,//摩拉
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 100094,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      }, 
+      {
+        "goodsId": 10048052,
+        "goodsItem": {
+          "id": 111014,	//精油
+          "count": 1
+        },
+        "scoin": 0,//摩拉
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 100094,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048053,
+        "goodsItem": {
+          "id": 111015,	//精油
+          "count": 1
+        },
+        "scoin": 0,//摩拉
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 100094,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048054,
+        "goodsItem": {
+          "id": 111016,	//精油
+          "count": 1
+        },
+        "scoin": 0,//摩拉
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 100094,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048055,
+        "goodsItem": {
+          "id": 111017,	//精油
+          "count": 1
+        },
+        "scoin": 0,//摩拉
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 100094,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048056,
+        "goodsItem": {
+          "id": 111018,	//精油
+          "count": 1
+        },
+        "scoin": 0,//摩拉
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 100094,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048057,
+        "goodsItem": {
+          "id": 111019,	//精油
+          "count": 1
+        },
+        "scoin": 0,//摩拉
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 100094,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048059,
+        "goodsItem": {
+          "id": 108058,	//蒙得往事
+          "count": 1
+        },
+        "scoin": 0,//摩拉
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 100094,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },	
+      {
+        "goodsId": 10048060,
+        "goodsItem": {
+          "id": 108124,	//仙跳墙
+          "count": 1
+        },
+        "scoin": 0,//摩拉
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 100094,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048061,
+        "goodsItem": {
+          "id": 108160,	//天抠肉
+          "count": 1
+        },
+        "scoin": 0,//摩拉
+        "mcoin": 0,//结晶
+        "costItemList": [
+          {
+            "id": 100094,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      }	  
+    ]
+  },
+ 
+ 
+ 
+ //名片商店
+  {
+    "shopId": 1011,
+    "items": [
+      {
+        "goodsId": 10048051,
+        "goodsItem": {
+          "id": 140003,	//翅膀 降临之翼
+          "count": 1
+        },
+        "scoin": 10000,//摩拉
+        "mcoin": 1680,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048052,
+        "goodsItem": {
+          "id": 140004,	//翅膀 苍天清风之翼
+          "count": 1
+        },
+        "scoin": 10000,//摩拉
+        "mcoin": 1680,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },	  
+      {
+        "goodsId": 10048053,
+        "goodsItem": {
+          "id": 140005,	//翅膀 金琮天行之翼
+          "count": 1
+        },
+        "scoin": 10000,//摩拉
+        "mcoin": 1680,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },	  	  
+      {
+        "goodsId": 10048054,
+        "goodsItem": {
+          "id": 140006,	//翅膀 雪隐之翼
+          "count": 1
+        },
+        "scoin": 10000,//摩拉
+        "mcoin": 1680,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048055,
+        "goodsItem": {
+          "id": 140007,	//翅膀 飨宴之翼
+          "count": 1
+        },
+        "scoin": 10000,//摩拉
+        "mcoin": 1680,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },	 
+      {
+        "goodsId": 10048056,
+        "goodsItem": {
+          "id": 140008,	//翅膀 雷腾云奔之翼
+          "count": 1
+        },
+        "scoin": 10000,//摩拉
+        "mcoin": 1680,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048057,
+        "goodsItem": {
+          "id": 140009,	//翅膀 星汉灿烂之翼
+          "count": 1
+        },
+        "scoin": 10000,//摩拉
+        "mcoin": 1680,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10038040,
+        "goodsItem": {
+          "id": 210097,//名片
+          "count": 1
+        },
+        "hcoin": 99999,//原石
+        "mcoin": 9999,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 9999
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 0,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10038041,
+        "goodsItem": {
+          "id": 210002,//名片2
+          "count": 1
+        },
+        "hcoin": 99999,//原石
+        "mcoin": 9999,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 9999
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 0,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10038042,
+        "goodsItem": {
+          "id": 210042,//名片3
+          "count": 1
+        },
+        "hcoin": 99999,//原石
+        "mcoin": 9999,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 9999
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 0,
+        "maxLevel": 99
+      },	
+	  {
+        "goodsId": 10038043,
+        "goodsItem": {
+          "id": 210055,//名片4
+          "count": 1
+        },
+        "hcoin": 99999,//原石
+        "mcoin": 9999,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 9999
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 0,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10038044,
+        "goodsItem": {
+          "id": 210060,//名片5
+          "count": 1
+        },
+        "hcoin": 99999,//原石
+        "mcoin": 9999,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 9999
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 0,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10038045,
+        "goodsItem": {
+          "id": 210064,//名片7
+          "count": 1
+        },
+        "hcoin": 99999,//原石
+        "mcoin": 9999,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 9999
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 0,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10038046,
+        "goodsItem": {
+          "id": 210071,//名片8
+          "count": 1
+        },
+        "hcoin": 99999,//原石
+        "mcoin": 9999,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 9999
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 0,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10038047,
+        "goodsItem": {
+          "id": 210074,//名片9
+          "count": 1
+        },
+        "hcoin": 99999,//原石
+        "mcoin": 9999,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 9999
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 0,
+        "maxLevel": 99
+      },	  
+	  {
+        "goodsId": 10038048,
+        "goodsItem": {
+          "id": 210080,//名片10
+          "count": 1
+        },
+        "hcoin": 99999,//原石
+        "mcoin": 9999,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 9999
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 0,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10038049,
+        "goodsItem": {
+          "id": 210096,//名片11
+          "count": 1
+        },
+        "hcoin": 99999,//原石
+        "mcoin": 9999,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 9999
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 0,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10038050,
+        "goodsItem": {
+          "id": 210102,//名片12
+          "count": 1
+        },
+        "hcoin": 99999,//原石
+        "mcoin": 9999,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 9999
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 0,
+        "maxLevel": 99
+      },	
+	  {
+        "goodsId": 10028050,
+        "goodsItem": {
+          "id": 210106,//名片13
+          "count": 1
+        },
+        "hcoin": 999999,//原石
+        "mcoin": 99999,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 9999
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 0,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10038051,
+        "goodsItem": {
+          "id": 210110,//名片14
+          "count": 1
+        },
+        "hcoin": 99999,//原石
+        "mcoin": 9999,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 9999
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 0,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10038052,
+        "goodsItem": {
+          "id": 210113,//名片15
+          "count": 1
+        },
+        "hcoin": 99999,//原石
+        "mcoin": 9999,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 9999
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 0,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10038053,
+        "goodsItem": {
+          "id": 210118,//名片16
+          "count": 1
+        },
+        "hcoin": 99999,//原石
+        "mcoin": 9999,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 9999
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 0,
+        "maxLevel": 99
+      },	
+	  {
+        "goodsId": 10038054,
+        "goodsItem": {
+          "id": 210121,//名片17
+          "count": 1
+        },
+        "hcoin": 99999,//原石
+        "mcoin": 9999,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 9999
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 0,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10038055,
+        "goodsItem": {
+          "id": 210123,//名片18
+          "count": 1
+        },
+        "hcoin": 99999,//原石
+        "mcoin": 9999,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 9999
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 0,
+        "maxLevel": 99
+      },	  
+	  {
+        "goodsId": 10048041,
+        "goodsItem": {
+          "id": 220025,//风物之诗琴
+
+          "count": 1
+        },
+        "hcoin": 999,//原石
+        "mcoin": 999,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 999
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      }  
+    ]
+  },
+ 
+  
+  
+  //临时商店
+  {
+    "shopId": 1005,
+    "items": [	
+	  {
+        "goodsId": 10048005,
+        "goodsItem": {
+          "id": 104101,//ID 璀璨原钻碎屑
+          "count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10048006,
+        "goodsItem": {
+          "id": 104171,//ID 璀璨黄 碎屑
+          "count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },	  
+	  {
+        "goodsId": 10048007,
+        "goodsItem": {
+          "id": 104111,//ID 燃愿玛瑙碎屑
+          "count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10048008,
+        "goodsItem": {
+          "id": 104121,//ID 涤净青金碎屑
+          "count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10048009,
+        "goodsItem": {
+          "id": 104131,//ID 生长碧翡碎屑
+          "count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10048010,
+        "goodsItem": {
+          "id": 104141,//ID 最胜紫晶碎屑
+          "count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10048011,
+        "goodsItem": {
+          "id": 104151,//ID 自在松石碎屑
+          "count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10048012,
+        "goodsItem": {
+          "id": 104161,//ID 哀叙冰玉碎屑
+          "count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },	        
+	  {
+        "goodsId": 10048014,
+        "goodsItem": {
+          "id": 101202,//ID 绯樱绣球
+          "count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048015,
+        "goodsItem": {
+          "id": 101208,//ID 101208: 天云草实
+          "count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048017,
+        "goodsItem": {
+          "id": 101207,//ID 101207: 珊瑚真珠
+          "count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048018,
+        "goodsItem": {
+          "id": 101203,//ID 101203: 晶化骨髓
+          "count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048019,
+        "goodsItem": {
+          "id": 101204,//ID 101204: 血斛
+          "count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048020,
+        "goodsItem": {
+          "id": 101209,//ID 101209: 幽灯蕈
+          "count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048021,
+        "goodsItem": {
+          "id": 101205,//ID 101205: 鸣草
+          "count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048022,
+        "goodsItem": {
+          "id": 100057,//ID 100057: 蒲公英籽
+          "count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10048023,
+        "goodsItem": {
+          "id": 100027,//绝云椒椒
+          "count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+	  {
+        "goodsId": 10048024,
+        "goodsItem": {
+          "id": 101201,//鬼兜虫
+          "count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048025,
+        "goodsItem": {
+          "id": 101225,//ID圣金虫
+          "count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048031,
+        "goodsItem": {
+          "id": 101206,//ID 100057: 海灵芝
+          "count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },	
+      {
+        "goodsId": 10048032,
+        "goodsItem": {
+          "id": 101215,//ID 100057: 月莲
+          "count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },	
+      {
+        "goodsId": 10048033,
+        "goodsItem": {
+          "id": 101213,//ID 100057: 树王
+          "count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      }, 
+      {
+        "goodsId": 10048034,
+        "goodsItem": {
+          "id": 101217,//ID 100057: 劫波莲
+          "count": 1
+        },
+        "hcoin": 1000,//原石
+        "mcoin": 10,//结晶
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 1
+          }
+        ],//购买所需要305: 风之印
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      }, 
+      {
+        "goodsId": 1005101,
+        "goodsItem": {
+          "id": 113001,//ID 飓风之种
+          "count": 1
+        },
+        "scoin": 0,
+        "buyLimit": 500,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {//购买所需要303: 草之印
+            "id": 305,
+            "count": 1000
+          },
+          {//购买所需要303: 草之印
+            "id": 203,
+            "count": 5000
+          }		  
+        ]
+      }, 
+      {
+        "goodsId": 1005102,
+        "goodsItem": {
+          "id": 113002,//ID 雷光棱镜
+          "count": 1
+        },
+        "scoin": 0,
+        "buyLimit": 500,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {//购买所需要303: 草之印
+            "id": 305,
+            "count": 1000
+          },
+          {//购买所需要303: 草之印
+            "id": 203,
+            "count": 5000
+          }
+        ]
+      },
+      {
+        "goodsId": 1005103,
+        "goodsItem": {
+          "id": 113009,//ID 玄岩之塔
+          "count": 1
+        },
+        "scoin": 0,
+        "buyLimit": 500,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {//购买所需要303: 草之印
+            "id": 305,
+            "count": 1000
+          },
+          {//购买所需要303: 草之印
+            "id": 203,
+            "count": 5000
+          }
+        ]
+      }, 
+      {
+        "goodsId": 1005104,
+        "goodsItem": {
+          "id": 113010,//ID 极寒之核
+          "count": 1
+        },
+        "scoin": 0,
+        "buyLimit": 500,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {//购买所需要303: 草之印
+            "id": 305,
+            "count": 1000
+          },
+          {//购买所需要303: 草之印
+            "id": 203,
+            "count": 5000
+          }
+        ]
+      },
+      {
+        "goodsId": 1005105,
+        "goodsItem": {
+          "id": 113011,//ID 常燃火种
+          "count": 1
+        },
+        "scoin": 0,
+        "buyLimit": 500,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {//购买所需要303: 草之印
+            "id": 305,
+            "count": 1000
+          },
+          {//购买所需要303: 草之印
+            "id": 203,
+            "count": 5000
+          }
+        ]
+      }, 
+      {
+        "goodsId": 1005106,
+        "goodsItem": {
+          "id": 113012,//ID 净水之心
+          "count": 1
+        },
+        "scoin": 0,
+        "buyLimit": 500,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {//购买所需要303: 草之印
+            "id": 305,
+            "count": 1000
+          },
+          {//购买所需要303: 草之印
+            "id": 203,
+            "count": 5000
+          }
+        ]
+      },
+      {
+        "goodsId": 1005107,
+        "goodsItem": {
+          "id": 113016,//ID 未熟之玉
+          "count": 1
+        },
+        "scoin": 0,
+        "buyLimit": 500,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {//购买所需要303: 草之印
+            "id": 305,
+            "count": 1000
+          },
+          {//购买所需要303: 草之印
+            "id": 203,
+            "count": 5000
+          }
+        ]
+      }, 
+      {
+        "goodsId": 1005108,
+        "goodsItem": {
+          "id": 113020,//ID 晶凝之华
+          "count": 1
+        },
+        "scoin": 0,
+        "buyLimit": 500,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {//购买所需要303: 草之印
+            "id": 305,
+            "count": 1000
+          },
+          {//购买所需要303: 草之印
+            "id": 203,
+            "count": 5000
+          }
+        ]
+      }, 
+      {
+        "goodsId": 1005109,
+        "goodsItem": {
+          "id": 113022,//ID 魔偶机心
+          "count": 1
+        },
+        "scoin": 0,
+        "buyLimit": 500,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {//购买所需要303: 草之印
+            "id": 305,
+            "count": 1000
+          },
+          {//购买所需要303: 草之印
+            "id": 203,
+            "count": 5000
+          }
+        ]
+      },
+      {
+        "goodsId": 1005110,
+        "goodsItem": {
+          "id": 113023,//ID 恒常机关之心
+          "count": 1
+        },
+        "scoin": 0,
+        "buyLimit": 500,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {//购买所需要303: 草之印
+            "id": 305,
+            "count": 1000
+          },
+          {//购买所需要303: 草之印
+            "id": 203,
+            "count": 5000
+          }
+        ]
+      }, 
+      {
+        "goodsId": 1005111,
+        "goodsItem": {
+          "id": 113024,//ID 阴燃之珠
+          "count": 1
+        },
+        "scoin": 0,
+        "buyLimit": 500,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {//购买所需要303: 草之印
+            "id": 305,
+            "count": 1000
+          },
+          {//购买所需要303: 草之印
+            "id": 203,
+            "count": 5000
+          }
+        ]
+      }, 
+      {
+        "goodsId": 1005112,
+        "goodsItem": {
+          "id": 113028,//ID 排异之露
+          "count": 1
+        },
+        "scoin": 0,
+        "buyLimit": 500,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {//购买所需要303: 草之印
+            "id": 305,
+            "count": 1000
+          },
+          {//购买所需要303: 草之印
+            "id": 203,
+            "count": 5000
+          }
+        ]
+      },
+      {
+        "goodsId": 1005113,
+        "goodsItem": {
+          "id": 113029,//ID 雷霆数珠
+          "count": 1
+        },
+        "scoin": 0,
+        "buyLimit": 500,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {//购买所需要303: 草之印
+            "id": 305,
+            "count": 1000
+          },
+          {//购买所需要303: 草之印
+            "id": 203,
+            "count": 5000
+          }
+        ]
+      }, 
+      {
+        "goodsId": 1005114,
+        "goodsItem": {
+          "id": 113030,//ID 兽境王器
+          "count": 1
+        },
+        "scoin": 0,
+        "buyLimit": 500,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {//购买所需要303: 草之印
+            "id": 305,
+            "count": 1000
+          },
+          {//购买所需要303: 草之印
+            "id": 203,
+            "count": 5000
+          }
+        ]
+      },
+      {
+        "goodsId": 1005115,
+        "goodsItem": {
+          "id": 113031,//ID 龙嗣伪鳍
+          "count": 1
+        },
+        "scoin": 0,
+        "buyLimit": 500,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {//购买所需要303: 草之印
+            "id": 305,
+            "count": 1000
+          },
+          {//购买所需要303: 草之印
+            "id": 203,
+            "count": 5000
+          }
+        ]
+      }, 
+      {
+        "goodsId": 1005116,
+        "goodsItem": {
+          "id": 113035,//ID 符纹之齿
+          "count": 1
+        },
+        "scoin": 0,
+        "buyLimit": 500,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {//购买所需要303: 草之印
+            "id": 305,
+            "count": 1000
+          },
+          {//购买所需要303: 草之印
+            "id": 203,
+            "count": 5000
+          }
+        ]
+      },
+      {
+        "goodsId": 1005117,
+        "goodsItem": {
+          "id": 113036,//ID 3.0新角色
+          "count": 1
+        },
+        "scoin": 0,
+        "buyLimit": 500,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {//购买所需要303: 草之印
+            "id": 305,
+            "count": 1000
+          },
+          {//购买所需要303: 草之印
+            "id": 203,
+            "count": 5000
+          }
+        ]
+      },
+      {
+        "goodsId": 1005118,
+        "goodsItem": {
+          "id": 113037,//ID 3.0新角色
+          "count": 1
+        },
+        "scoin": 0,
+        "buyLimit": 500,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {//购买所需要303: 草之印
+            "id": 305,
+            "count": 1000
+          },
+          {//购买所需要303: 草之印
+            "id": 203,
+            "count": 5000
+          }		  
+        ]
+      },
+      {
+        "goodsId": 1005119,
+        "goodsItem": {
+          "id": 113038,//ID 3.0新角色
+          "count": 1
+        },
+        "scoin": 0,
+        "buyLimit": 500,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {//购买所需要303: 草之印
+            "id": 305,
+            "count": 1000
+          },
+          {//购买所需要303: 草之印
+            "id": 203,
+            "count": 5000
+          }
+        ]
+      }		  
+    ]	  
+  },
+  {
+    "shopId": 1008,//东升 天赋书
+    "items": [
+      {
+        "goodsId": 1,
+        "goodsItem": {
+          "id": 114033,
+          "count": 1
+        },
+        "hcoin": 1200,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 120,
+            "id": 203,
+            "count": 12
+          }
+        ]
+      },
+      {
+        "goodsId": 2,
+        "goodsItem": {
+          "id": 114029,
+          "count": 1
+        },
+        "hcoin": 1200,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 120,
+            "id": 203,
+            "count": 12
+          }
+        ]
+      },
+      {
+        "goodsId": 3,
+        "goodsItem": {
+          "id": 114025,
+          "count": 1
+        },
+        "hcoin": 1200,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 120,
+            "id": 203,
+            "count": 12
+          }
+        ]
+      },
+      {
+        "goodsId": 4,
+        "goodsItem": {
+          "id": 114021,
+          "count": 1
+        },
+        "hcoin": 1200,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 120,
+            "id": 203,
+            "count": 12
+          }
+        ]
+      },
+      {
+        "goodsId": 5,
+        "goodsItem": {
+          "id": 114017,
+          "count": 1
+        },
+        "hcoin": 1200,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 120,
+            "id": 203,
+            "count": 12
+          }
+        ]
+      },
+      {
+        "goodsId": 6,
+        "goodsItem": {
+          "id": 114013,
+          "count": 1
+        },
+        "hcoin": 1200,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 120,
+            "id": 203,
+            "count": 12
+          }
+        ]
+      },
+      {
+        "goodsId": 7,
+        "goodsItem": {
+          "id": 114009,
+          "count": 1
+        },
+        "hcoin": 1200,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 120,
+            "id": 203,
+            "count": 12
+          }
+        ]
+      },
+      {
+        "goodsId": 8,
+        "goodsItem": {
+          "id": 114005,
+          "count": 1
+        },
+        "hcoin": 1200,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 120,
+            "id": 203,
+            "count": 12
+          }
+        ]
+      },
+      {
+        "goodsId": 9,
+        "goodsItem": {
+          "id": 14001,
+          "count": 1
+        },
+        "hcoin": 1200,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 120,
+            "id": 203,
+            "count": 12
+          }
+        ]
+      },
+      {
+        "goodsId": 10,
+        "goodsItem": {
+          "id": 114001,
+          "count": 1
+        },
+        "hcoin": 1200,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 120,
+            "id": 203,
+            "count": 12
+          }
+        ]
+      },
+      {
+        "goodsId": 28,
+        "goodsItem": {
+          "id": 104301,
+          "count": 1
+        },
+        "hcoin": 1200,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 120,
+            "id": 203,
+            "count": 12
+          }
+        ]
+      },
+      {
+        "goodsId": 29,
+        "goodsItem": {
+          "id": 104304,
+          "count": 1
+        },
+        "hcoin": 1200,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 120,
+            "id": 203,
+            "count": 12
+          }
+        ]
+      },
+      {
+        "goodsId": 30,
+        "goodsItem": {
+          "id": 104307,
+          "count": 1
+        },
+        "hcoin": 1200,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 120,
+            "id": 203,
+            "count": 12
+          }
+        ]
+      },
+      {
+        "goodsId": 32,
+        "goodsItem": {
+          "id": 104313,
+          "count": 1
+        },
+        "hcoin": 1200,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 120,
+            "id": 203,
+            "count": 12
+          }
+        ]
+      },
+      {
+        "goodsId": 31,
+        "goodsItem": {
+          "id": 104310,
+          "count": 1
+        },
+        "hcoin": 1200,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 120,
+            "id": 203,
+            "count": 12
+          }
+        ]
+      },
+      {
+        "goodsId": 33,
+        "goodsItem": {
+          "id": 104316,
+          "count": 1
+        },
+        "hcoin": 1200,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 120,
+            "id": 203,
+            "count": 12
+          }
+        ]
+      },
+      {
+        "goodsId": 34,
+        "goodsItem": {
+          "id": 104320,
+          "count": 1
+        },
+        "hcoin": 1200,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 120,
+            "id": 203,
+            "count": 12
+          }
+        ]
+      },
+      {
+        "goodsId": 35,
+        "goodsItem": {
+          "id": 104323,
+          "count": 1
+        },
+        "hcoin": 1200,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 120,
+            "id": 203,
+            "count": 12
+          }
+        ]
+      },
+      {
+        "goodsId": 36,
+        "goodsItem": {
+          "id": 104326,
+          "count": 1
+        },
+        "hcoin": 1200,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 120,
+            "id": 203,
+            "count": 12
+          }
+        ]
+      },
+      {
+        "goodsId": 37,
+        "goodsItem": {
+          "id": 114045,
+          "count": 1
+        },
+        "hcoin": 1200,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 120,
+            "id": 203,
+            "count": 12
+          }
+        ]
+      },
+      {
+        "goodsId": 38,
+        "goodsItem": {
+          "id": 114041,
+          "count": 1
+        },
+        "hcoin": 1200,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 120,
+            "id": 203,
+            "count": 12
+          }
+        ]
+      },
+      {
+        "goodsId": 39,
+        "goodsItem": {
+          "id": 114037,
+          "count": 1
+        },
+        "hcoin": 1200,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 120,
+            "id": 203,
+            "count": 12
+          }
+        ]
+      },
+      {
+        "goodsId": 40,
+        "goodsItem": {
+          "id": 104335,
+          "count": 1
+        },
+        "hcoin": 1200,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 120,
+            "id": 203,
+            "count": 12
+          }
+        ]
+      },
+      {
+        "goodsId": 41,
+        "goodsItem": {
+          "id": 114332,
+          "count": 1
+        },
+        "hcoin": 1200,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 120,
+            "id": 203,
+            "count": 12
+          }
+        ]
+      },
+      {
+        "goodsId": 42,
+        "goodsItem": {
+          "id": 104329,
+          "count": 1
+        },
+        "hcoin": 1200,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 305,
+            "count": 120,
+            "id": 203,
+            "count": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "shopId": 1028,//石头 小玩意儿
+    "items": [
+      {
+        "goodsId": 1,
+        "goodsItem": {
+          "id": 220018,//留影机
+          "count": 1
+        },
+        "mcoin": 99999,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 203,
+            "count": 99999
+          }
+        ]
+      },  
+      {
+        "goodsId": 2,
+        "goodsItem": {
+          "id": 220019,//奇特留影机
+          "count": 1
+        },
+        "mcoin": 99999,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 203,
+            "count": 99999
+          }
+        ]
+      },  
+      {
+        "goodsId": 3,
+        "goodsItem": {
+          "id": 220020,//精致留影机
+          "count": 1
+        },
+        "mcoin": 99999,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 203,
+            "count": 99999
+          }
+        ]
+      },  
+      {
+        "goodsId": 4,
+        "goodsItem": {
+          "id": 220070,//必胜客联动
+          "count": 1
+        },
+        "mcoin": 99999,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 203,
+            "count": 99999
+          }
+        ]
+      },  
+      {
+        "goodsId": 5,
+        "goodsItem": {
+          "id": 220070,//必胜客联动
+          "count": 1
+        },
+        "mcoin": 99999,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 203,
+            "count": 99999
+          }
+        ]
+      },  
+      {
+        "goodsId": 6,
+        "goodsItem": {
+          "id": 220047,//烟花筒
+          "count": 1
+        },
+        "mcoin": 99999,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 203,
+            "count": 99999
+          }
+        ]
+      },  
+      {
+        "goodsId": 7,
+        "goodsItem": {
+          "id": 220025,//风物之诗琴
+          "count": 1
+        },
+        "mcoin": 99999,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 203,
+            "count": 99999
+          }
+        ]
+      },  
+      {
+        "goodsId": 8,
+        "goodsItem": {
+          "id": 220044,//镜花之琴
+          "count": 1
+        },
+        "mcoin": 99999,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 203,
+            "count": 99999
+          }
+        ]
+      },  
+      {
+        "goodsId": 9,
+        "goodsItem": {
+          "id": 220066,//老旧诗琴
+          "count": 1
+        },
+        "mcoin": 99999,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 203,
+            "count": 99999
+          }
+        ]
+      },  
+      {
+        "goodsId": 10,
+        "goodsItem": {
+          "id": 220051,//盛世豪鼓
+          "count": 1
+        },
+        "mcoin": 99999,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 203,
+            "count": 99999
+          }
+        ]
+      }, 
+      {
+        "goodsId": 11,
+        "goodsItem": {
+          "id": 220035,//红羽团扇
+          "count": 1
+        },
+        "mcoin": 99999,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 203,
+            "count": 99999
+          }
+        ]
+      }, 
+      {
+        "goodsId": 12,
+        "goodsItem": {
+          "id": 220024,//风花节纪念气球
+          "count": 1
+        },
+        "mcoin": 99999,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 203,
+            "count": 99999
+          }
+        ]
+      }, 
+      {
+        "goodsId": 13,
+        "goodsItem": {
+          "id": 220027,//风佑之羽球
+          "count": 1
+        },
+        "mcoin": 99999,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 203,
+            "count": 99999
+          }
+        ]
+      }, 
+      {
+        "goodsId": 14,
+        "goodsItem": {
+          "id": 220008,//营养袋
+          "count": 1
+        },
+        "mcoin": 99999,
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 203,
+            "count": 99999
+          }
+        ]
+      } 
+    ]
+  }
+]
