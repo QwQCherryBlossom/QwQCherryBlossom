@@ -1,0 +1,84 @@
+[
+	{
+		"nickname":"常驻5星池",
+		"gachaType": 302,
+		"scheduleId": 999,
+		"bannerType": "WEAPON",
+		"prefabPath": "GachaShowPanel_A091",
+		"previewPrefabPath": "UI_Tab_GachaShowPanel_A091",
+		"titlePath": "UI_GACHA_SHOW_PANEL_A091_TITLE",
+		"costItemId": 104104,
+		"costItemAmount": 1,
+		"costItemAmount10": 10,
+		"beginTime": 0,
+		"endTime": 1924992000,
+		"sortId": 10003,
+		"eventChance": 100,
+		"softPity": 10,
+		"hardPity": 10,
+		"rateUpItems4": [0,0,0,0],
+		"rateUpItems5": [1003,1016,1041,1042,1035,1069],	
+		"fallbackItems4Pool1": [0,0,0,0],
+		"fallbackItems5Pool1": [1003,1016,1041,1042,1035,1069],
+		"fallbackItems4Pool1": [0],
+		"weights4": [[1,0], [8,0], [10,0]],
+		"weights5": [[1,10000]]
+	},
+	{
+		"nickname":"常驻四星池",
+		"gachaType": 302,
+		"scheduleId": 998,
+		"bannerType": "WEAPON",
+		"prefabPath": "GachaShowPanel_A017",
+		"previewPrefabPath": "UI_Tab_GachaShowPanel_A017",
+		"titlePath": "UI_GACHA_SHOW_PANEL_A017_TITLE",
+		"costItemId": 104104,
+		"costItemAmount": 1,
+		"costItemAmount10": 10,
+		"beginTime": 0,
+		"endTime": 1924992000,
+		"sortId": 10002,
+		"eventChance": 100,
+		"softPity": 10,
+		"hardPity": 10,
+		"rateUpItems4": [0,0,0,0],
+		"rateUpItems5": [1006, 1014, 1015, 1020, 1021, 1023, 1024, 1025, 1027, 1031, 1032, 1034, 1036, 1039, 1043, 1044, 1045, 1048, 1053, 1055, 1056, 1064,1065,1059,1050,1067,1068],
+		"fallbackItems4Pool1": [0,0,0,0],
+		"fallbackItems5Pool1": [1006, 1014, 1015, 1020, 1021, 1023, 1024, 1025, 1027, 1031, 1032, 1034, 1036, 1039, 1043, 1044, 1045, 1048, 1053, 1055, 1056, 1064,1065,1059,1050,1067,1068],
+		"fallbackItems4Pool1": [0],
+		"weights4": [[1,0], [8,0], [80,0]],
+		"weights5": [[1,10000]]
+	},	
+	{
+		"nickname":"无超模圣遗物",
+		"gachaType": 301,
+		"scheduleId": 903,
+		"bannerType": "EVENT",
+		"prefabPath": "GachaShowPanel_A065",
+		"previewPrefabPath": "UI_Tab_GachaShowPanel_A065",
+		"titlePath": "UI_GACHA_SHOW_PANEL_A065_TITLE",
+		"costItemId": 306,
+		"costItemAmount": 1,
+		"costItemAmount10": 10,
+		"beginTime": 0,
+		"endTime": 1924992000,
+		"sortId": 10004,
+		"eventChance": 100,
+		"softPity": 10,
+		"hardPity": 10,
+		"rateUpItems4": [1006, 1014, 1015, 1020, 1021, 1023, 1024, 1025, 1027, 1031, 1032, 1034, 1036, 1039, 1043, 1044, 1045, 1048, 1053, 1055, 1056, 1064,1065,1059,1050,1067,1068],
+		"rateUpItems5": [75514,75524,75534,75544,75554,77514 ,77524 ,77534 ,77544 ,77554 ,82514 ,82524 ,82534 ,82544 ,82554 ,72514 ,72524 ,72534 ,72544 ,72554 ,75514 ,75524 ,75534 ,75544 ,75554 ,73514 ,73524 ,73534 ,73544 ,73554 ],
+		"fallbackItems4Pool1": [1006, 1014, 1015, 1020, 1021, 1023, 1024, 1025, 1027, 1031, 1032, 1034, 1036, 1039, 1043, 1044, 1045, 1048, 1053, 1055, 1056, 1064,1065,1059,1050,1067,1068],
+		"fallbackItems5Pool1": [75514,75524,75534,75544,75554,77514 ,77524 ,77534 ,77544 ,77554 ,82514 ,82524 ,82534 ,82544 ,82554 ,72514 ,72524 ,72534 ,72544 ,72554 ,75514 ,75524 ,75534 ,75544 ,75554 ,73514 ,73524 ,73534 ,73544 ,73554 ],
+		"weights4": [[1,150], [8,800], [10,10000]],
+		"weights5": [[1,200], [5,410], [10,10000]]
+	}
+
+
+]
+	
+
+
+	
+
+
